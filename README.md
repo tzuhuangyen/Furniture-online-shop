@@ -1,4 +1,5 @@
 #Furniture-online-shop
+
 This project builds a furniture online shop using HTML, CSS, JavaScript, AJAX, API integration, and C3. The main goal is to practice AJAX and APIs for fetching and displaying product data. It also includes features like product filtering, a shopping cart, total price calculation, C3 chart visualization, and order details for the admin.
 
 The project's highlight is the implementation of AJAX and API integration. AJAX retrieves real-time product data through API calls, providing up-to-date information on furniture products like names, descriptions, prices, and images. This dynamic data fetching ensures accurate and current product listings.
